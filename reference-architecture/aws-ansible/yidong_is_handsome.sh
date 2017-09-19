@@ -1,5 +1,3 @@
-export AWS_ACCESS_KEY_ID=AKIAIGEI5YZMXY55W54Q
-export AWS_SECRET_ACCESS_KEY=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
 
 ./ose-on-aws.py \
 --keypair=yidong_sydney \
